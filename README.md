@@ -18,12 +18,12 @@ sudo yum install rkhunter    # RHEL/CentOS
 
 ## Make the Script Executable
 ```
-chmod +x linux_audit.py
+chmod +x LINUX_AUDIT_TOOL.py
 ```
 
 ## Run the Audit and Run the script with root privileges to access all checks:
 ```
-sudo ./linux_audit.py
+sudo ./LINUX_AUDIT_TOOL.py
 ```
 
   ### The tool will display a summary report in your terminal.
