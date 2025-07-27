@@ -33,7 +33,4 @@ sudo ./linux_audit.py
  
 ## Notes
   ### This script checks firewall (CIS 3.5), SSH settings (CIS 5.2), and rootkit hygiene.
-
-  ### The check_services_cis function is under development (future update).
-
-  ### Use it alongside tools like OpenVAS for deeper vulnerability scanning.
+  ### Use it for fast and intermediate level of depth scanning  .
