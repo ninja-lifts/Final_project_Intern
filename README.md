@@ -1,8 +1,8 @@
 # Save the .py file in home Directory(Audit_Report.pdf will be stored in the same directory) 
 
 ## Ensure Prerequisites
- --Confirm iptables is installed and available.
- --Ensure sshd is present for SSH configuration checks.
+  -Confirm iptables is installed and available.
+  -Ensure sshd is present for SSH configuration checks.
 
 ## Enable iptabes after instllation 
  ```
